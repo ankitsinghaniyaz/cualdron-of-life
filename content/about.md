@@ -6,5 +6,4 @@ draft: false
 
 > Travel as much as you can for life is short.
 
-Let's explore my journey on the same.   
-
+This is my account on the things I feel. How beautiful the world is to me.

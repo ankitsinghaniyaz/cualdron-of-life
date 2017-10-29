@@ -3,9 +3,6 @@ languageCode = "en-us"
 title = "The Cauldron of Life"
 theme = "cocoa"
 
-[permalinks]
-blog  = "blog/:slug/"
-
 [[menu.main]]
 name                   = "Blog"
 weight                 = -120
