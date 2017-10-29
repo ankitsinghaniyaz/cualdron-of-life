@@ -1,0 +1,45 @@
+baseURL = "http://cauldronoflife.com"
+languageCode = "en-us"
+title = "The Cauldron of Life"
+theme = "cocoa"
+
+[permalinks]
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[params]
+latestpostscount       = 5                             # how many posts to display on the home page
+i18n_flags             = false                         # whether to display small country flags for available translations
+# cachebuster          = true                          # add the current unix timestamp in query string for cache busting css assets
+# dateform             = "Jan 2, 2006"
+# dateformfull         = "Mon Jan 2 2006 15:04:05 MST"  
+author                 = "Cauldron of Life"
+description            = "Don't panic"
+email                  = "ankit.singhaniyaz@gmail.com"
+extracssfiles          = [ "" ]       # In your `static` directory, add/remove files as necessary.
+faviconfile            = "img/leaf.ico"
+highlightjs            = true
+lang                   = "en"
+noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
+selfintro              = "Life, travel and everything magical.."                            # appears in the site header when set to a non-empty string
+twitter                = "//twitter.com/aks0510"
+# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
+# highlightjsStyle     = "darcula"
+
+piwik				   = false                         # If true, Piwik integration is enabled
+# piwik_url            = "//www.example.com/piwik/"    # URL to your Piwik installation. Must End with a slash
+# piwik_id			   = 2                             # Id of your site in Piwik
+
+avatar                 = "img/avatar.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+# gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
