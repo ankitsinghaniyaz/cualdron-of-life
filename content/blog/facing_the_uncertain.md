@@ -14,8 +14,8 @@ Understanding all this play of thoughts is one thing but how to fix them? I am s
 
 >, In the end, it's only the chances we didn't take that we regret
 
-One more question, do you also like me feel that most of your sentences start with an I? Is this being selfish even my speech or this is just a lame thought? :')
+One more question, do you also like me feel that most of your sentences start with an I? Is this being selfish in my speech or this is just a lame thought? :')
 
-In my head I've some ideas, there is a way I want to live my life. But the comfort of confirming with what everyone doe holds me back. The care for my family that I have to earn a living holds me back. Sometimes, I feel that all these are the stories I am telling myself to keep me in the comfort where I am.
+In my head I've some ideas, there is a way I want to live my life. But the comfort of confirming with what everyone do holds me back. The care for my family that I have to earn a living holds me back. Sometimes, I feel that all these are the stories I am telling myself to keep me in the comfort where I am.
 
 Still looking for some clarity, I hope I have the courage to live the life the way it is supposed to be. Pray that I have the strength to live my life to the fullest. :)
