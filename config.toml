@@ -2,6 +2,7 @@ baseURL = "https://cauldron-of-life.netlify.com"
 languageCode = "en-us"
 title = "The Cauldron of Life"
 theme = "cocoa"
+googleAnalytics = "UA-109487244-1"
 
 [[menu.main]]
 name                   = "Blog"
