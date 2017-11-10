@@ -1,7 +1,7 @@
 ---
 title: "Facing the Uncertain"
 date: 2017-11-10T21:19:30+05:30
-draft: true
+draft: false
 ---
 
 I wonder if you too are afraid of uncertainties? It is very easy to dream but the hard work it takes to make it a reality is not insignificant. The fear that things may not turn out as I think they should, stops me from putting in the hard work. Is this an excuse? I get thoughts that wait for the right idea where success is guaranteed. This idea is very lucrative and saves me from doing any real work right now. Isn't this situation similar to the saying:
