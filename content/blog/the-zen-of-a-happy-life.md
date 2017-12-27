@@ -8,7 +8,7 @@ draft: false
 > When things are bad, practice patience.
 > When things are average, show staisfaction.
 
-There are situtations they can be either good, bad or average. I know this might look like I am judging how things are. I also know great people talk about equanimity in all situations. I'm not there yet, though I want to be.
+Situtations can be either good, bad or average. I know this might look like I am judging how things are. I also know great people talk about equanimity in all situations. I'm not there yet, though I want to be.
 
 I tend to get sad at times just like every other human being. I know it is a part of the life. Just like the darkness gives meaning to the light, the sorrow gives meaning to the happiness. I think, the most important things to learn in life is to learn handling rejections.
 
