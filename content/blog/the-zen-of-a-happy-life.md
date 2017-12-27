@@ -1,0 +1,23 @@
+---
+title: "The Zen of a Happy Life"
+date: 2017-12-27T22:48:22+05:30
+draft: true
+---
+
+> When things are good, express gratitude.
+> When things are bad, practice patience.
+> When things are average, show staisfaction.
+
+There are situtations they can be either good, bad or average. I know this might look like I am judging how things are. I also know great people talk about equanimity in all situations. I'm not there yet, though I want to be.
+
+I tend to get sad at times just like every other human being. I know it is a part of the life. Just like the darkness gives meaning to the light, the sorrow gives meaning to the happiness. I think, the most important things to learn in life is to learn handling rejections.
+
+As a programmer I'm good at exception handling. Rejection handling should be similar. ;)
+
+When we are struck with grief and life is like a test, we should all show patience. This is very easy to understand and we all know this to some extent. This is because sorrow opens us in such ways that no other emotion can. As many great poets have said, it creates a crack to let the light permeate within. We are highly aware of our condition and surrounding when we are low. This makes realization easier. This is also the undesirable of all the other situations. Nobody wants to be in it. We also know that this is not permanent and this is natural for every being. Yet, we don't acknowledge the universal law. Most of the time our griefs are self constructed. We are the one who pioneer these beasts, which in turn come back to bite us. Expectation being the fiercest of them all. It's like a big wild bear, with the height of two men, bigger than the fattest tree trunk you've seen; mouth simmerd with saliva thick like a glue. When we expect that some thing should happen the way we want, or even worse, some person should behave the way we desire. We are inviting this beast to come and attack us. There is no way a lowly human being, with life span in just three digits, expects to control the flow of nature trillion years old, even older. Do not do this and you shall save most of your troubles. The other major beast is the hungry prowling judge within us. It seems like nature created man, espacilly us. So that we can say what human is better, what animals are good, what food is best, what is right and what is wrong. Is there a greater folly we can do than this? Just see around, see how vast the world is! What we think of something or someone, does it even matter? More, is it even the truth? No! There's a very famous wisdom which says, "No man knows the heart of another!" The only archer who can defend you is your patience. Hold him dear, hold him close.
+
+When things are nice and we are high. Everything seems to be happening the way we like and it's all fun and joy. We get so much lost in the moment that we forget things. We develop a craving for this. A habit, a desire to have things our way. To be in the security of our thoughts. Things are random by nature, but by fluke, when some of them aligns with what we desire. We get a false sense of pride that we are the one in control. At any given point, in any given action. There are so many players that no one can deterministiaclly say how things will turn out. This is why we have a term _luck_. These are the times when we have every resource to do what we have desired. We should have gratitude in our heart and express it in our actions. Humility should never leave us.
+
+The other intersting thing is the average situation. I know for most of us it's either good or bad, but I put the average in for a reason. Firstly, I feel that I'm in the average field a lot of the times. Secondly, I don't know how to deal with it. Have you heard yourself telling, "I am bored?" If yes trust me this is the average situation. There are times when we are not sure what is it that we want to do. What should we do next. These are indeed very difficult time. These are the time when we take desperate actions, unwanted actions and invite the grief to us. Practising content and staisfaction is not an easy job. When we do a good job having gratitude and patience in extremes of time, then we can have staisfaction in the average of situtaitons. I don't know what saints meant when they said equanimity, but I belive it should be close to being satisfied. Satisfied is being aware of what is happening, doing what best you can do, having love for things we have and having patiente towards things we don't like. This is how I want to live.
+
+Easily said then done, but I try my best to cultivate these good characters within me and live a happy life. :)
