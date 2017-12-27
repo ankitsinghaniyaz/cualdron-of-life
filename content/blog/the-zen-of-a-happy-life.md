@@ -1,7 +1,7 @@
 ---
 title: "The Zen of a Happy Life"
 date: 2017-12-27T22:48:22+05:30
-draft: true
+draft: false
 ---
 
 > When things are good, express gratitude.
