@@ -4,7 +4,7 @@ date: 2018-03-11T12:15:05+05:30
 draft: false
 ---
 
-This was the first book by Murakami which I read. There are certain characteristics of his writing that I would like to bring up. This will help us appreciate and understand his work better.
+This was the first book by [Murakami](https://en.wikipedia.org/wiki/Haruki_Murakami) which I read. There are certain characteristics of his writing that I would like to bring up. This will help us appreciate and understand his work better.
 
 Firstly, Murakami is a great observer. He talks about daily affairs in such light and detail that you will wonder whether you are living life in the right way. His stories don't need any fancy setting or place. All he uses is an old rusty car or a simple bedroom with a perfectly common ceiling. Secondly, you can find him using vivid dreams and imagery. His dreams are very real and you will find him using different creatures like cat, fish and snakes to add some tinge to the story. Thirdly, there is a sense of enigma in his writing he makes you ask questions and then takes you on an incomplete journey to find the answers. I personally love this as he gives us enough context about the riddle we are trying to solve but no more. We are all free to come to our own conclusions as we see fit.
 
