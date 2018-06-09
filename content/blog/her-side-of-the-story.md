@@ -4,9 +4,9 @@ date: 2018-06-09T21:54:56+05:30
 draft: false
 ---
 
-I shared my side of the story. How I feel the pain and cheated but I know mistakes were made from my side as well. I might not be able to do all the justice to her feelings but trying to say everything that she made me known.
+I shared [my side of the story](/blog/when-i-hurt). How I feel the pain and cheated but I know mistakes were made from my side as well. I might not be able to do all the justice to her feelings but trying to say everything that she made me known.
 
-I don't want to write much concrete details here but the lines below should be enough to tell you my flaws. 
+I don't want to write much concrete details here but the lines below should be enough to tell you my flaws.
 
 You told them everything, <br/>
 And called me names,<br/>
