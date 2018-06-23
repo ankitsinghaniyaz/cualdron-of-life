@@ -1,4 +1,4 @@
-baseURL = "https://cauldron-of-life.netlify.com"
+baseURL = "https://cauldron.life"
 languageCode = "en-us"
 title = "The Cauldron of Life"
 theme = "cocoa"
