@@ -32,7 +32,7 @@ lang                   = "en"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
 selfintro              = "Life, travel and everything magical."                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/aks0510"
-instagram              = "//instagram.com/cauldron_of_life"
+instagram              = "//instagram.com/cauldron.life"
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
 # highlightjsStyle     = "darcula"
 
