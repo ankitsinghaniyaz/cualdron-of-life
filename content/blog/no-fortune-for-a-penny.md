@@ -20,5 +20,5 @@ We all have preferences. We seek someone when we are happy and we seek someone e
 
 Love yourself and stay rooted in your gut feeling. Have compassion for your troubles like you would have it for a friend's. After all, we are humans and humans are not meant to be perfect. You deserve those kind encouraging words more than anyone else.
 
-There is a huge storm brewing and everyone is trying to hold the line. Move forward inch by inch. Do not leave anyone behind not yourself either. :)
+There is a huge storm brewing and everyone is trying to hold the line. Move forward inch by inch. Do not leave anyone behind and not yourself either. :)
 
