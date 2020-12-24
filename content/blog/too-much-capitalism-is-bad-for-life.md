@@ -1,7 +1,7 @@
 ---
 title: "Capitalism Is Not Life"
 date: 2020-12-24T22:29:32+05:30
-draft: true
+draft: false
 ---
 
 I completed reading [Sapiens: A Brief History of Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) by 
