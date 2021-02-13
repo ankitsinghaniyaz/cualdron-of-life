@@ -1,0 +1,15 @@
+---
+title: "Unfuck Yourself"
+date: 2018-10-20T13:32:20+05:30
+draft: true
+---
+
+It is said that when we spend much time with a person we start to pull in traits and qualities from them. This can happen consiously or unconisously but it definitely happens. We are very much influenced by people we associate with. 
+
+When in love - the person with whom you spend years will shape you in so many ways. It makes all the difference how we perceive the world and other relationships in the future. This is the main reason why toxic relationships are so bad. They have a deep and long lasting impact on our behaviour pattern. It can be the difference between feeling secure vs insecure, having trust issues or having a heart to understand that not everyone is wrong. You liking to share your feelings vs afraid of being judged. My point is that you can be either a joyful happening person or a pityful miserable soul because of the influence of others. Once you are in the bad side of this equation, which we are most of the times, we call ourself fucked up.
+
+So let's say that we are all here in this dark pit then what can we do to literally unfuck ourselves? And there's a lot we can do. I've always known that I've been suffering through these problems and to be aware that there's a problem is the first step towards fixing it. In my country we don't have a culture seeking professional help on such subjects and I myself was not convinced enough that I needed one. It was tough for me to love a person again. Firstly, I would not like most I met or I would find faults in them an when I did like someone the other person didn't feel the same way for me. Then when you finally meet someone who loves you back it gets very interesting. Now you are happy that you have found someone beautiful but you are afraid of being hurt all over again. Frankly speaking there's no way for me or anyone to tell that if this would work out well or not but is it worth the try? Absolutely! I would not close my heart to love because of someone else's stupidity. What happens in future is uncertain anyway so giving in my best is the only way go.
+
+Once I said yes there are a few things that I did that helped me. Having stayed single for such long time I built habits like not commiting and being on a lookout for the right perosn. But all that had to change. Only when I am dedicated and concentrate my energy on building this one relationship rather than multiple flying fligns it's going to work. To put it in a short way, the energy we have is limited and you need to spend a good portion of that in building a relationship.
+
+When I started doing that there has been better peace in my life. I'm generally a content soul but being with her has improved the quality of life significantly. I don't waste energy trying to talk to strangers trying to find love because I already have love. 
