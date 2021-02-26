@@ -1,5 +1,5 @@
 ---
-title: "Capitalism Is Not Life"
+title: "Capitalism is Not Life"
 date: 2020-12-24T22:29:32+05:30
 draft: false
 ---
